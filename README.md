@@ -1,5 +1,8 @@
 # Bookshelves
 
+Allow authenticated user to add book in a bookshelf.
+demo page available here : https://bookshelf-6c646.web.app/books
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
